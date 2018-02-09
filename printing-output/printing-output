@@ -1,0 +1,48 @@
+                        //Task1
+
+var a, b, c;
+var a = 3;
+var b = 5;
+var c;
+
+alert(a + b =8,
+a - b = -2,
+a * b = 15,
+a / b = 0.6,
+a % b = 3,
+(a += b):8,
+(a -= b):3,
+(a *= b):15,
+(a /= b):3,
+(a %= b):3,
+(a == b):false,
+(a != b):true,
+(a > b):false,
+(a < b):true,
+(!a && !c):false, 
+(!a || !c):true\n; 
+
+
+                        //Task 2
+                        
+var first_name = "Catriona";
+var first_name = Abuneke";
+var email = "abun0007@algonquinlive.com";
+var output = My Name is "first_name","first_name", "email". You can contact me at "email";
+alert (output);
+
+                        //Task 3
+                        
+    var numbers = [
+    Math.floor(Math.random() * (200 - 100) + 100), 
+    
+    Math.floor(Math.random() * (200 - 100) + 100), 
+    
+    Math.floor(Math.random() * (200 - 100) + 100),
+    
+    Math.floor(Math.random() * (200 - 100) + 100),
+    
+    Math.floor(Math.random() * (200 - 100) + 100)
+];
+
+//I don't understand this
